@@ -3,7 +3,7 @@
 
 EAPI=6
 GNOME2_LA_PUNT="yes"
-PYTHON_COMPAT=( python3_{5,6,7,8,9} )
+PYTHON_COMPAT=( python3_{5,6,7} )
 
 inherit gnome2 python-any-r1 multilib-minimal
 
